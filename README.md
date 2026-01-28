@@ -48,11 +48,17 @@
 
 ---
 
-### 🌱 What I'm Working On
-- 🚀 Building front-end mini projects using HTML & CSS
-- 🔄 Practicing Java OOP Concepts
-- 🧠 Learning Git, GitHub, and version control fundamentals
+🌱 What I’m Working On
 
+🌐 Strengthening Web Development fundamentals and best practices
+
+🧩 Learning SQL & Database Design concepts
+
+⚛️ Exploring the MERN Stack (MongoDB, Express.js, React, Node.js)
+
+🔄 Practicing Git, GitHub, and version control workflows
+
+🧠 Improving problem-solving skills through hands-on development
 ---
 
 ### 📫 Let's Connect!
