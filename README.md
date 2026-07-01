@@ -35,17 +35,18 @@
 ---
 
 ## 📈 GitHub Statistics
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AuraHamza&show_icons=true&theme=tokyonight&cache_seconds=1800" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-one-henna-43za5vs0ys.vercel.app/api?username=AuraHamza&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </p>
 
 ---
 
 ## 📚 Top Languages
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AuraHamza&layout=compact&theme=tokyonight&cache_seconds=1800" alt="Top Languages" />
-</p>
 
+<p align="center">
+  <img src="https://github-readme-stats-one-henna-43za5vs0ys.vercel.app/api/top-langs/?username=AuraHamza&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
 ---
 
 ## 🌱 What I’m Working On
