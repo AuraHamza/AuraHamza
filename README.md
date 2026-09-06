@@ -39,15 +39,14 @@
 
 ## 🌱 What I’m Working On
 
--🌐 Strengthening Web Development fundamentals and best practices
--🐍 Exploring Python and its practical applications
--📊 Learning Data Science concepts and tools
--🤖 Exploring Artificial Intelligence & Machine Learning
--🧩 Learning SQL & Database Design concepts
--⚛️ Exploring the MERN Stack (MongoDB, Express.js, React, Node.js)
--🔄 Improving Git & GitHub workflows and collaboration
--🧠 Enhancing Problem Solving through DSA and practical development
-
+* 🌐 Strengthening **Web Development** fundamentals and best practices
+* 🐍 Exploring **Python** and its practical applications
+* 📊 Learning **Data Science** concepts and tools
+* 🤖 Exploring **Artificial Intelligence & Machine Learning**
+* 🧩 Learning **SQL & Database Design** concepts
+* ⚛️ Exploring the **MERN Stack** (MongoDB, Express.js, React, Node.js)
+* 🔄 Improving **Git & GitHub** workflows and collaboration
+* 🧠 Enhancing **Problem Solving** through DSA and practical development
 ---
 
 ## 📫 Let's Connect!
