@@ -101,7 +101,6 @@ Data Science Project
   ↓
 Machine Learning / AI
   ↓
-AI Project
 ```
 
 ---
