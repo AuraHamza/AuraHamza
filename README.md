@@ -23,31 +23,63 @@
 ## 💻 Tech Stack
 
 ### 🚀 Languages
-`C` `C++` `Java` `JavaScript` `Python` `SQL` `Assembly (x86)`
+
+<p>
+<img src="https://skillicons.dev/icons?i=c,cpp,java,js,python,mysql,bash" />
+</p>
 
 ### 🎨 Frontend
-`HTML5` `CSS3` `JavaScript` `React`
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,react" />
+</p>
 
 ### ⚙️ Backend
-`Node.js` `Express.js` `REST APIs`
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
 
 ### 🗄️ Databases
-`PostgreSQL` `MySQL`
+
+<p>
+<img src="https://skillicons.dev/icons?i=postgres,mysql" />
+</p>
 
 ### 🧠 Data Science
-`NumPy` `Matplotlib`
+
+<p>
+<img src="https://skillicons.dev/icons?i=numpy" />
+</p>
+
+<p>
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white" />
+</p>
 
 ### 🏗️ Software Engineering
-`OOP` `Software Design & Architecture` `Software Requirements Engineering` `System Design`
+
+<p>
+<img src="https://img.shields.io/badge/OOP-00599C?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Software%20Design%20%26%20Architecture-6C3483?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Software%20Requirements%20Engineering-2874A6?style=for-the-badge" />
+<img src="https://img.shields.io/badge/System%20Design-1F618D?style=for-the-badge" />
+</p>
 
 ### 🛠️ Tools
-`VS Code` `Git` `GitHub`
+
+<p>
+<img src="https://skillicons.dev/icons?i=vscode,git,github" />
+</p>
 
 ---
 
 ## 📚 Currently Learning
 
-`Pandas` `Data Cleaning` `Data Analysis` `EDA` `Data Visualization`
+<p>
+<img src="https://skillicons.dev/icons?i=pandas" />
+</p>
+
+**Data Cleaning · Data Analysis · EDA · Data Visualization**
 
 ---
 
