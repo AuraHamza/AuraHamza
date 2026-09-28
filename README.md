@@ -2,21 +2,22 @@
 
 <p align="center">
   🎓 Software Engineering Student at <b>FAST NUCES, Karachi</b><br>
-  💻 Aspiring Software Developer | Web Development & Data Science Enthusiast<br>
-  🚀 Learning: JavaScript, React, Node.js, SQL, Git & GitHub<br>
-  🐍 Data Science Path: Python → NumPy → Pandas → Data Cleaning → Data Analysis → Visualization<br>
-  🤖 Future Focus: Machine Learning, Artificial Intelligence & AI Projects<br>
-  🧠 Interests: DSA, Software Design & Architecture, Requirements Engineering & System Design<br>
-  🛠️ Building: Web applications, databases, data-driven systems & practical software projects<br>
-  📈 Goal: Build efficient, scalable, and maintainable software systems
+  💻 Aspiring Software Developer | Web Development & Data Science<br>
+  🧠 Interested in DSA, Software Design, Architecture & System Design
 </p>
 
 ---
 
 ## 🌐 Socials
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/hamza-salahuddin-718bb8318/)
-[![Gmail](https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=gmail&logoColor=white)](mailto:salahuddinhamz7@gmail.com)
+<p>
+  <a href="https://www.linkedin.com/in/hamza-salahuddin-718bb8318/">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:salahuddinhamz7@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="40" alt="Gmail"/>
+  </a>
+</p>
 
 ---
 
@@ -25,58 +26,51 @@
 ### 🚀 Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=c,cpp,java,js,python,mysql,bash" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,javascript,typescript,python,bash" />
 </p>
 
 ### 🎨 Frontend
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,js,react" />
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,react" />
 </p>
 
 ### ⚙️ Backend
 
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express" />
 </p>
 
 ### 🗄️ Databases
 
 <p>
-<img src="https://skillicons.dev/icons?i=postgres,mysql" />
+  <img src="https://skillicons.dev/icons?i=postgresql,mysql" />
 </p>
 
 ### 🧠 Data Science
 
 <p>
-<img src="https://skillicons.dev/icons?i=numpy" />
-</p>
-
-<p>
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white" />
-</p>
-
-### 🏗️ Software Engineering
-
-<p>
-<img src="https://img.shields.io/badge/OOP-00599C?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Software%20Design%20%26%20Architecture-6C3483?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Software%20Requirements%20Engineering-2874A6?style=for-the-badge" />
-<img src="https://img.shields.io/badge/System%20Design-1F618D?style=for-the-badge" />
+  <img src="https://skillicons.dev/icons?i=numpy,pandas,matplotlib" />
 </p>
 
 ### 🛠️ Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=vscode,git,github" />
+  <img src="https://skillicons.dev/icons?i=vscode,git,github" />
 </p>
+
+---
+
+## 🏗️ Software Engineering
+
+**OOP** · **DSA** · **Software Design & Architecture** · **Requirements Engineering** · **System Design**
 
 ---
 
 ## 📚 Currently Learning
 
 <p>
-<img src="https://skillicons.dev/icons?i=pandas" />
+  <img src="https://skillicons.dev/icons?i=pandas" />
 </p>
 
 **Data Cleaning · Data Analysis · EDA · Data Visualization**
