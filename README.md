@@ -77,8 +77,13 @@
 
 ## 🏗️ Software Engineering
 
-**OOP** · **DSA** · **Software Design & Architecture** · **Requirements Engineering** · **System Design**
-
+<p>
+  <img src="https://img.shields.io/badge/OOP-00599C?style=for-the-badge" alt="OOP"/>
+  <img src="https://img.shields.io/badge/DSA-6A1B9A?style=for-the-badge" alt="DSA"/>
+  <img src="https://img.shields.io/badge/Software%20Design%20%26%20Architecture-37474F?style=for-the-badge" alt="Software Design & Architecture"/>
+  <img src="https://img.shields.io/badge/Requirements%20Engineering-1565C0?style=for-the-badge" alt="Requirements Engineering"/>
+  <img src="https://img.shields.io/badge/System%20Design-00897B?style=for-the-badge" alt="System Design"/>
+</p>
 ---
 
 ## 📚 Currently Learning
